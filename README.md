@@ -1,2 +1,9 @@
-# altcraft-shopkz
-Altcraft: omni-channel client engagement for shop.kz (White Wind Kazakhstan)
+# Altcraft x shop.kz
+
+Обзорный материал: омниканальная работа с клиентом для shop.kz («Белый Ветер», Казахстан).
+
+- мобильное приложение (mSDK), пуш-канал, In-App
+- товарные подборки: по правилам каталога (модуль Маркет) и через AI-движок MoodRec
+- единый профиль клиента и все каналы коммуникации
+
+Страница: https://allybellybom-crypto.github.io/altcraft-shopkz/
